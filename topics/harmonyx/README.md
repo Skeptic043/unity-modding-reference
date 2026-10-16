@@ -9,4 +9,4 @@ Articles about HarmonyX target preparation, transpiler input, prefix behavior an
 - [Temporary field restoration](temporary-field-restoration.md): capture an original value per invocation and restore it on normal, skipped and exceptional exits.
 - [Clean up every attempted target after a patch failure](failed-install-cleanup.md): why a failed target can still retain owner records, and how to remove one mod's records without removing competing patches.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

@@ -9,4 +9,4 @@ The Sailwind [item identity](https://github.com/Skeptic043/sailwind-technical-re
 
 Static ordering and desktop fixtures do not establish save/reload behavior in a Unity player. Live acceptance belongs on disposable copied saves.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

@@ -11,4 +11,4 @@ Sailwind's [spawn-initialization case](https://github.com/Skeptic043/sailwind-te
 
 Static inspection and managed fixtures can narrow lifecycle paths. They do not establish scene readiness, physical stability, save restoration, performance or gameplay acceptance.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

@@ -8,4 +8,4 @@ These articles cover three boundaries that make optional mod APIs easier to reas
 
 These are engineering and contract-review patterns, not native Unity behavior, documentation for a released API or proof of compatibility with a particular provider.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

@@ -6,4 +6,4 @@ Articles and tools for examining managed assemblies without treating metadata as
 - [Raw IL hashes change after unrelated edits](raw-il-hashes.md): why metadata tokens make `GetILAsByteArray()` hashes brittle as compatibility guards.
 - [Typed array consumers and redirection boundaries](redirect-array-consumers.md): field and local signatures, generated delegates, alternate consumers and source ownership around a redirected read.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

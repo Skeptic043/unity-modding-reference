@@ -6,4 +6,4 @@ Articles for diagnosing managed dependency failures without mistaking repeated c
 
 [Compatibility evidence levels](../validation/compatibility-evidence-layers.md) separates package and synthetic dependency results from live feature evidence. The linked Sailwind Radio case summarizes the game-specific result and limits.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

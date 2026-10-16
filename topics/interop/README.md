@@ -4,4 +4,4 @@ Native API behavior depends on the Unity runtime, process architecture, operatin
 
 - [On Unity 2019.1 x86 Mono, a ComImport Media Foundation reader crashed while manual vtable calls completed](media-foundation-unity-mono.md): a bounded standalone-host comparison of two source-reader approaches, with the differences and untested player cases kept explicit.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

@@ -1,4 +1,4 @@
-# Unity modding knowledge
+# Unity modding reference
 
 Research findings and reproducible methods for Unity mod developers. Each article identifies the observed behavior or method, its practical implications, and the versions and limitations that bound the result.
 

@@ -9,4 +9,4 @@ These articles separate what an individual check establishes from the runtime be
 
 Earlier compatibility layers and managed simulations cannot establish Unity startup, real callback behavior, persistence, multiplayer, performance, long-session behavior or gameplay acceptance.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

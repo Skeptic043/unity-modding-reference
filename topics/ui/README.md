@@ -12,4 +12,4 @@ The Sailwind [held-item targeting](https://github.com/Skeptic043/sailwind-techni
 
 Source inspection and synthetic hierarchies do not establish live projection, hit testing, event propagation or readability.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

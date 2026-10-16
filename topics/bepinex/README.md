@@ -7,4 +7,4 @@ Articles about BepInEx configuration identity, live changes, reload behavior and
 - [Shortcut parse failures](shortcut-parse-loss.md): how invalid shortcut text can become an empty saved binding.
 - [Configuration Manager range sliders](configuration-manager-range-sliders.md): what range metadata provides, what it does not provide and when loader clamping hides invalid inputs.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)

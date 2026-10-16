@@ -9,4 +9,4 @@ The Sailwind [boat mass and load-limit](https://github.com/Skeptic043/sailwind-t
 
 Source inspection, controlled fixtures and static models answer different questions. None alone establishes physical stability, performance or gameplay acceptance.
 
-[Unity modding knowledge](../../README.md)
+[Unity modding reference](../../README.md)
