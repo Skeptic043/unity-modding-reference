@@ -1,0 +1,3 @@
+HarmonyX 2.9.0.0 on CLR 4.0.30319.42000
+__args prefix: saw 1, wrote 7, original received 1
+ref prefix: saw 1, wrote 9, original received 9

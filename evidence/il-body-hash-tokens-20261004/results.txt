@@ -1,0 +1,15 @@
+Command: .\Run.ps1
+
+Raw IL equal:        False
+Raw SHA256 A:        1384324672efd6abceefb8c271b7b6409da6bf2d3a9c8c54dc447aa1a895754b
+Raw SHA256 B:        b3b7749000a20df2fb1c833e6a1df28ff7fe318c8a170ae6d33ce5870b983a52
+Normalized equal:    True
+  0x70000001   0x7000000d   ldstr "check"
+  0x0a00000c   0x0a00000b   call System.Console::WriteLine
+                            ldarg.1
+                            ldarg.0
+  0x04000001   0x04000002   ldfld Probe.Target::useDistance
+                            cgt.un
+                            ldc.i4.0
+                            ceq
+                            ret
