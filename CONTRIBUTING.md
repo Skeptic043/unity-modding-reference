@@ -2,6 +2,14 @@
 
 Contributions should make a reusable Unity modding finding easier to understand and verify without overstating what was established. Search the existing articles first, then update the maintained explanation when new evidence changes the same answer.
 
+## Contribution and publication gate
+
+All new or changed knowledge must be captured and reviewed in the owning private evidence base before public wording is drafted or merged here. Research work or a private research update does not authorize a public-reference edit.
+
+Every change to this repository must be prepared on a branch other than `main` and submitted through a pull request. Do not push edits directly to `main`. A contribution can be merged only after `@Skeptic043` explicitly approves the public wording and scope. External contributors may provide public sources and reproduction details in their pull request, but the maintainer records accepted evidence in the private base before approval.
+
+Public refreshes are curated translations of selected evidence, not automatic copies of the private research tree. Review and merge them only when the public explanation is accurate, appropriately scoped and ready for readers.
+
 ## Choose the owning repository
 
 Keep transferable Unity, BepInEx, HarmonyX and investigation methods in this repository. Keep game mechanics, installed-build findings and game-specific implementation results in a game-specific repository. A general article may link to a game case, but it should not duplicate that case's logs, asset values or implementation history.
