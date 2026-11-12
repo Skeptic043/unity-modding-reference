@@ -4,6 +4,7 @@ __pycache__/
 AGENTS.md
 .agents/
 .codex/
+.claude/
 **/AGENTS.md
 **/PLAN.md
 **/BACKLOG.md
